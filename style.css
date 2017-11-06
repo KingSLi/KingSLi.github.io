@@ -1,0 +1,16 @@
+.about {
+    border: 4px black; /* Параметры границы */
+    background: #FFFACD; 
+    padding: 10px; 
+}
+.experience {
+    border: 6px double black; /* Параметры границы */
+    background: #98FB98; 
+    padding: 10px; 
+}
+.contacts {
+    border: 4px double black; /* Параметры границы */
+    background: #20B2AA; 
+    padding: 10px; 
+}
+
